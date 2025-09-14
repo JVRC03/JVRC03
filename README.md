@@ -1,16 +1,15 @@
-# Hi there, I'm J. Venkata Ravi Chandra 👋
+<h3 align="center">~ Hi there, I'm J. Venkata Ravi Chandra 👋 ~</h3>
 
 # 💫 About Me:
 I’m a curious student and passionate problem solver, constantly exploring new technologies, building projects, and learning by creating.
 
 🚀 Currently diving deep into AI & ML models, exploring how machines can think, learn, and create.<br>📚 Learning every day, experimenting with projects that challenge my understanding.<br>🤝 Collaborating with college peers and friends – because innovation sparks brighter when shared.<br>💡 Fun fact: I treat debugging as a detective game 🕵️‍♂️ – every bug has a story, and I love uncovering it!
 
-
-## 🌐 Socials:
+## 🌐 connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/venkata-ravi-chandra-jaladanki/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/JV_RC03) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jvravichandra03@gmail.com) 
-[![HackerRank](https://skillicons.dev/icons?i=hackerrank)](https://www.hackerrank.com/profile/jvravichandra03)
+[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/jvravichandra03)
 [![GeeksforGeeks](https://img.icons8.com/color/48/000000/GeeksforGeeks.png)](https://www.geeksforgeeks.org/user/jvravich2lz6/)
 
 
