@@ -1,4 +1,4 @@
-<h3 align="center">~ Hi there, I'm J. Venkata Ravi Chandra 👋 ~</h3>
+<h1 align="center">Hi there, I'm J. Venkata Ravi Chandra 👋</h1>
 
 # 💫 About Me:
 I’m a curious student and passionate problem solver, constantly exploring new technologies, building projects, and learning by creating.
