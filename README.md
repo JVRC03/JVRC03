@@ -45,9 +45,9 @@ I’m a curious student and passionate problem solver, constantly exploring new 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
-  </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/C/canva-logo-1B75C703AA-seeklogo.com.png" alt="canva" width="40" height="40"/> 
+  </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
