@@ -32,11 +32,6 @@ I’m a curious student and passionate problem solver, constantly exploring new 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
-<p align="center">
-  <b>~ J. Venkata Ravi Chandra ~</b>
-</p>
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JVRC03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
