@@ -1,29 +1,41 @@
-# Hi 👋, I'm Ravi Chandra
+# Hi there, I'm Ravi 👋  
 
-🚀 Assistant Professor | 💻 Full-stack Developer | 🤖 AI & IoT Enthusiast  
+🎯 **Student | Problem Solver | Developer | Learner**  
 
-- 🔭 I’m currently working on: **MediScan (AI-powered health assistant)**
-- 🌱 Learning: **Flutter, Cloud, Advanced DSA**
-- 💬 Ask me about: `Python` `Java` `Flutter` `IoT`
-- ⚡ Fun fact: Small daily efforts = Big achievements 🚀  
+I love solving problems, building projects, and exploring new technologies.  
+Currently focusing on **DSA, Flutter apps, and AI-based solutions** 🚀  
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
-...
+### 🌟 About Me  
+- 📚 Computer Science student passionate about coding & innovation  
+- 🧩 Solved **700+ problems on LeetCode**  
+- 💡 Built projects like **MediScan** (QR-based health assistant) & **KIETY** (kids’ screen time reducer)  
+- 🌱 Always curious to learn, experiment, and share knowledge  
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+### ⚡ Tech Stack  
+💻 Languages: Python | Java | C++ | Dart  
+📱 Mobile: Flutter | Android (Kotlin + Java)  
+🌐 Web: Node.js | Express | HTML | CSS | JavaScript  
+🛠️ Tools: Git | MySQL | Firebase | Docker  
+🤖 Interests: AI | IoT | Problem Solving | Full-Stack Development  
 
 ---
 
-### 🏆 Achievements
-- Solved **700+ problems** on LeetCode 🧩
-- Built **IoT-based Smart Door Lock** 🔐
-- Developed **MediScan app** (QR-based health report assistant) 📱
+### 📊 GitHub Stats  
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)  
+
+---
+
+### 🌍 Connect with Me  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 📝 [Portfolio](https://your-portfolio-link.com)  
+- 📧 ravi@example.com  
+
+---
+
+⭐️ *"Keep solving, keep building, keep growing."*  
