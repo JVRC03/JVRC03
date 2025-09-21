@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm J. Venkata Ravi Chandra 👋</h1>
 
 <p align="center">
-  <img src="/assests/634cc01d-1719-45e5-9c72-3aa1a61e55c3.gif" alt="Lottie Animation" width="300"/>
+  <img src="/assests/8b885f1b-b263-4679-ab24-b9fbc2fc0e6b.gif" alt="Lottie Animation" width="300"/>
 </p>
 
 <h3> 💫 About Me:</h3>
