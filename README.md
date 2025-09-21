@@ -3,7 +3,7 @@
 <p align="center">
   <img src="[https://assets10.lottiefiles.com/packages/lf20_jcikwtux.gif](https://lottiefiles.com/free-animation/happy-developer-c6SDJZ7C5D)" alt="Lottie Animation" width="300"/>
 </p>
-💫 About Me:
+<h3> 💫 About Me:</h3>
 I’m a curious student and passionate problem solver, constantly exploring new technologies, building projects, and learning by creating.
 
 🚀 Currently diving deep into AI & ML models, exploring how machines can think, learn, and create.<br>📚 Learning every day, experimenting with projects that challenge my understanding.<br>🤝 Collaborating with college peers and friends – because innovation sparks brighter when shared.<br>💡 Fun fact: I treat debugging as a detective game 🕵️‍♂️ – every bug has a story, and I love uncovering it!
