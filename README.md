@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm J. Venkata Ravi Chandra 👋</h1>
 
 <p align="center">
-  <img src="[https://assets10.lottiefiles.com/packages/lf20_jcikwtux.gif](https://lottiefiles.com/free-animation/happy-developer-c6SDJZ7C5D)" alt="Lottie Animation" width="300"/>
+  <img src="https://assets10.lottiefiles.com/packages/lf20_jcikwtux.gif" alt="Lottie Animation" width="300"/>
 </p>
+
 <h3> 💫 About Me:</h3>
 I’m a curious student and passionate problem solver, constantly exploring new technologies, building projects, and learning by creating.
 
